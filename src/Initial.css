@@ -1,0 +1,27 @@
+
+.start{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+
+
+}
+
+.startapp{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+ background-color:white;
+ 
+
+}
+.startapp img{
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+
+   
+   
+   }

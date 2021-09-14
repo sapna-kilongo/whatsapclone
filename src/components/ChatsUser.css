@@ -1,0 +1,16 @@
+.ChatsUser{
+display: flex;
+align-items: center;
+padding-bottom: 2px;
+margin-left: 10px;
+ 
+}
+.nybton{
+ background-color: white;
+
+}
+.text{
+ margin-left: 10px;
+
+
+}
